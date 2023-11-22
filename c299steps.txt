@@ -1,0 +1,9 @@
+1. open - 298 python code file location and type cmd on the address.
+2. Activate the IoT environment by using the command as conda activate iot
+3.python Class_298.py
+4. Copy and paste the http://127.0.0.1:5001/ address in a browser.
+5.click on launch button
+6. Click on the first button and you can see the orbiter arm is opened in the rocket.
+7. Now open the Wokwi platform you can see the message which is displayed on the
+console screen based on the button pressed on the web application ‘Space Rocket
+Launch’. I pressed the first button on the web app.
